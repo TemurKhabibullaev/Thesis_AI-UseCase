@@ -25,6 +25,6 @@ Comment your observations
 •Print and explain the Confusion Matrix 
 •Compute Accuracy of your model 
 
-Final Results from my observation:
+Final Results from my observation (72% accuracy):
 ![Results](https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/assets/55756791/049da7a1-e786-476f-acd2-516a0f1c691b)
 
