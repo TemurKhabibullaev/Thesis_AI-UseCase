@@ -26,4 +26,5 @@ Comment your observations
 •Compute Accuracy of your model 
 
 Final Results from my observation:
-![alt text](https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/Results.png?raw=true)
+
+https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/Results.png?raw=true
