@@ -24,3 +24,5 @@ Comment your observations
 •Read the test data and carry our data cleaning, encoding and vectorising operations on the test data•Predict the sentiments for test data
 •Print and explain the Confusion Matrix 
 •Compute Accuracy of your model 
+
+![alt text](https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/Results.jpg?raw=true)
