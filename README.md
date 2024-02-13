@@ -25,4 +25,5 @@ Comment your observations
 •Print and explain the Confusion Matrix 
 •Compute Accuracy of your model 
 
-![alt text](https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/Results.jpg?raw=true)
+Final Results from my observation:
+![alt text](https://github.com/TemurKhabibullaev/Thesis_AI-UseCase/Results.png?raw=true)
